@@ -61,7 +61,7 @@ async def start(event):
  
 @JEBotZ.on(events.callbackquery.CallbackQuery(data="help"))
 async def _(event):
-     await event.edit("**Help 📖**\n\nUsing me you can anonymize the sender and add or change caption of a media file\n\n**Available Commands 🧐**\n\n- /send (reply to media): Anonymize the sender\n- /send (caption) (reply to media): Add or change the caption and anonymize the sender\n\n*⃣ This bot works on both groups and private, but only admins can use the bot in groups\n\n**@JEBotZ**", 
+     await event.edit("**Help 📖**\n\nUsing me you can anonymize the sender and add or change caption of a media file\n\n**Available Commands 🧐**\n\n- /send (reply to media): Anonymize the sender\n- /send (caption) (reply to media): Add or change the caption and anonymize the sender\n\n*⃣ This bot works on both groups and private, but only admins can use the bot in groups\n\n**@SDBOTsZ**", 
                         buttons=[[Button.inline("Back", data="start")]])
     
 @JEBotZ.on(events.callbackquery.CallbackQuery(data="start"))
