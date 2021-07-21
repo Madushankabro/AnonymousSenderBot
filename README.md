@@ -20,4 +20,4 @@
 
 - [Lonami](https://github.com/LonamiWebs/Telethon) for telethon
 
-<br>🏷 Join [support group](https://t.me/SDBOTs_Inifinity) for any help
+<br>🏷 Join [support group](https://t.me/SDBOTz) for any help
